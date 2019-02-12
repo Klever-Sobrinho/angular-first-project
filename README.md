@@ -27,8 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Commands
+```angular
+ng new <project-name> //Create project
 
-`ng new <project-name>` [Create project] 
-`ng serve` [Start server]
-`ng g c <component-name>` [Generate a component]
-`tsc <file.ts>` [Compile typescript and create js file]
+ng serve //Start server
+
+ng g c <component-name> //Generate a component
+
+tsc <file.ts> //Compile typescript and create js file
+
+```
