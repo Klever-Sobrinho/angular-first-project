@@ -36,4 +36,6 @@ ng g c <component-name> //Generate a component
 
 tsc <file.ts> //Compile typescript and create js file
 
+ng g m <module-name> //Generate module
+
 ```
