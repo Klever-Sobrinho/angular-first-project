@@ -1,3 +1,10 @@
 <p>
-  courses component!
+  Courses List from {{ websiteName }}
 </p>
+
+<ul>
+  <li *ngFor="let course of courses">
+    {{ course }}
+  </li>
+</ul>
+
